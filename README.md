@@ -1,6 +1,6 @@
 LD-FusionTool
 ==========
-###Data Fusion and Conflict Resolution tool for Linked Data
+### Data Fusion and Conflict Resolution tool for Linked Data
 
 
 
